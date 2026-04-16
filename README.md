@@ -1,8 +1,15 @@
+
 # 🛠️ TUXHAUSEN HDD-ToolBox (Secure Edition)
 
 > **TUXHAUSEN HDD-ToolBox** is a highly specialized "Swiss Army Knife" for storage media. It combines professional Linux low-level utilities with a modern cyberpunk web interface and artificial intelligence.
 
 This distribution is based on **Ubuntu 24.04 (Noble Numbat)** and is delivered as a hardened Docker image with an encrypted application core.
+<img width="1920" height="1080" alt="2026-04-16 19_02_25-HDD-ToolBox (Cyberpunk Docker) und 3 weitere Seiten - Persönlich – Microsoft​ Ed" src="https://github.com/user-attachments/assets/91351288-f2d3-4bc5-9523-9d929d09a1cb" />
+<img width="1920" height="1080" alt="2026-04-16 19_02_43-HDD-ToolBox (Cyberpunk Docker) und 3 weitere Seiten - Persönlich – Microsoft​ Ed" src="https://github.com/user-attachments/assets/12a6bd26-cdff-4d64-9a3f-5a9adfd2914a" /><img width="1920" height="1080" alt="2026-04-16 19_02_59-HDD-ToolBox (Cyberpunk Docker) und 3 weitere Seiten - Persönlich – Microsoft​ Ed" src="https://github.com/user-attachments/assets/6e78b034-3e0a-4578-8134-e15d158d2d89" /><img width="1920" height="1080" alt="2026-04-16 19_03_10-HDD-ToolBox (Cyberpunk Docker) und 3 weitere Seiten - Persönlich – Microsoft​ Ed" src="https://github.com/user-attachments/assets/e9d8778b-364b-4b53-b5c1-0857ab20db77" />
+<img width="1920" height="1080" alt="2026-04-16 19_03_23-HDD-ToolBox (Cyberpunk Docker) und 3 weitere Seiten - Persönlich – Microsoft​ Ed" src="https://github.com/user-attachments/assets/0024025b-9972-4733-8aa1-e72da9e48ea6" />
+<img width="1920" height="1080" alt="2026-04-16 19_03_36-HDD-ToolBox (Cyberpunk Docker) und 3 weitere Seiten - Persönlich – Microsoft​ Ed" src="https://github.com/user-attachments/assets/d2655e66-873c-490e-aed9-ac1265a299d7" />
+<img width="1920" height="1080" alt="2026-04-16 19_04_27-HDD-ToolBox (Cyberpunk Docker) und 3 weitere Seiten - Persönlich – Microsoft​ Ed" src="https://github.com/user-attachments/assets/a05aa273-082d-4334-9932-aec6aa08f951" />
+<img width="1920" height="1080" alt="2026-04-16 19_04_16-HDD-ToolBox (Cyberpunk Docker) und 3 weitere Seiten - Persönlich – Microsoft​ Ed" src="https://github.com/user-attachments/assets/174ec83d-a265-4658-ab01-2bb154f29d0b" />
 <img width="1920" height="1080" alt="2026-04-16 19_17_17-HDD-ToolBox (Cyberpunk Docker)" src="https://github.com/user-attachments/assets/a23d6ae7-5fa9-4358-9ddf-4d8aa09c2a70" />
 
 ---
